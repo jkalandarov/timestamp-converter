@@ -1,36 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        body { 
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;      
-            color: #333;        
-            background-color: #f6f6f6;    
-        }
-        .container {
-            width: 100%;
-            max-width: 800px;
-            margin-left: auto;
-            margin-right: auto;    
-        }
-        li {
-            margin-bottom: 10px;
-        }
-        li, p {
-            font-size: 18px;
-        }
-        code {
-            font-size: 90%;
-        }
-        a {
-            color: #006fc6;
-        }
-    </style>
-</head>
 <body>
     <div class="container">
         <h1>API Project: Timestamp Microservice</h1>
